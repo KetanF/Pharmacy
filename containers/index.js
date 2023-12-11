@@ -1,0 +1,9 @@
+export { default as Landing } from './Landing';
+export { default as Login } from './Login';
+export { default as Register } from './Register';
+export { default as Home } from './Home';
+export { default as Output } from './Output';
+export { default as MyProfile } from './MyProfile';
+export { default as EditProfile } from './EditProfile';
+export { default as ChangePassword } from './ChangePassword';
+export { default as Loading } from './Loading';
